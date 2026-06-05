@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\components\\Footer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Footer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\sametime-indus-courier-backend\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sametime-indus-courier-backend\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\components\\Header.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Header.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\styles\\Footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles\\Footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\pages\\Home.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Home.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\components\\WhyChooseAndQuote.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\WhyChooseAndQuote.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\components\\Hero.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Hero.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\styles\\Header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles\\Header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\styles\\Hero.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles\\Hero.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\styles\\AboutUs.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles\\AboutUs.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\styles\\Home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles\\Home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\styles\\Services.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles\\Services.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\components\\AboutUs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\AboutUs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\components\\Services.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Services.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\styles\\WhyChooseAndQuote.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles\\WhyChooseAndQuote.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\sametime-indus-courier-backend\\.env",
+              "RelativeDocumentMoniker": "sametime-indus-courier-backend\\.env",
+              "ToolTip": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\sametime-indus-courier-backend\\.env",
+              "RelativeToolTip": "sametime-indus-courier-backend\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-05T05:15:06.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-05T05:32:27.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Footer.js",
+              "DocumentMoniker": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\components\\Footer.js",
+              "RelativeDocumentMoniker": "src\\components\\Footer.js",
+              "ToolTip": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\components\\Footer.js",
+              "RelativeToolTip": "src\\components\\Footer.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-05T05:29:36.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Footer.css",
+              "DocumentMoniker": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\styles\\Footer.css",
+              "RelativeDocumentMoniker": "src\\styles\\Footer.css",
+              "ToolTip": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\styles\\Footer.css",
+              "RelativeToolTip": "src\\styles\\Footer.css",
+              "ViewState": "AgIAAEgBAAAAAAAAAAAowGYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-05T05:30:09.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.js",
+              "DocumentMoniker": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\pages\\Home.js",
+              "RelativeDocumentMoniker": "src\\pages\\Home.js",
+              "ToolTip": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\pages\\Home.js",
+              "RelativeToolTip": "src\\pages\\Home.js",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-05T05:40:03.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WhyChooseAndQuote.js",
+              "DocumentMoniker": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\components\\WhyChooseAndQuote.js",
+              "RelativeDocumentMoniker": "src\\components\\WhyChooseAndQuote.js",
+              "ToolTip": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\components\\WhyChooseAndQuote.js",
+              "RelativeToolTip": "src\\components\\WhyChooseAndQuote.js",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAAwB4BAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-05T05:59:47.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Header.js",
+              "DocumentMoniker": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\components\\Header.js",
+              "RelativeDocumentMoniker": "src\\components\\Header.js",
+              "ToolTip": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\components\\Header.js",
+              "RelativeToolTip": "src\\components\\Header.js",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-05T05:23:27.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hero.js",
+              "DocumentMoniker": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\components\\Hero.js",
+              "RelativeDocumentMoniker": "src\\components\\Hero.js",
+              "ToolTip": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\components\\Hero.js",
+              "RelativeToolTip": "src\\components\\Hero.js",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwDQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-05T05:25:10.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Header.css",
+              "DocumentMoniker": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\styles\\Header.css",
+              "RelativeDocumentMoniker": "src\\styles\\Header.css",
+              "ToolTip": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\styles\\Header.css",
+              "RelativeToolTip": "src\\styles\\Header.css",
+              "ViewState": "AgIAALsAAAAAAAAAAAAowNkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-05T05:24:37.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AboutUs.css",
+              "DocumentMoniker": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\styles\\AboutUs.css",
+              "RelativeDocumentMoniker": "src\\styles\\AboutUs.css",
+              "ToolTip": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\styles\\AboutUs.css",
+              "RelativeToolTip": "src\\styles\\AboutUs.css",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAowJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-05T06:01:39.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.css",
+              "DocumentMoniker": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\styles\\Home.css",
+              "RelativeDocumentMoniker": "src\\styles\\Home.css",
+              "ToolTip": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\styles\\Home.css",
+              "RelativeToolTip": "src\\styles\\Home.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-05T05:30:49.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hero.css",
+              "DocumentMoniker": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\styles\\Hero.css",
+              "RelativeDocumentMoniker": "src\\styles\\Hero.css",
+              "ToolTip": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\styles\\Hero.css",
+              "RelativeToolTip": "src\\styles\\Hero.css",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAowPwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-05T05:25:42.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Services.css",
+              "DocumentMoniker": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\styles\\Services.css",
+              "RelativeDocumentMoniker": "src\\styles\\Services.css",
+              "ToolTip": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\styles\\Services.css",
+              "RelativeToolTip": "src\\styles\\Services.css",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-05T05:26:48.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AboutUs.js",
+              "DocumentMoniker": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\components\\AboutUs.js",
+              "RelativeDocumentMoniker": "src\\components\\AboutUs.js",
+              "ToolTip": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\components\\AboutUs.js",
+              "RelativeToolTip": "src\\components\\AboutUs.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-05T06:01:04.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Services.js",
+              "DocumentMoniker": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\components\\Services.js",
+              "RelativeDocumentMoniker": "src\\components\\Services.js",
+              "ToolTip": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\components\\Services.js",
+              "RelativeToolTip": "src\\components\\Services.js",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwDUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-05T05:26:14.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WhyChooseAndQuote.css",
+              "DocumentMoniker": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\styles\\WhyChooseAndQuote.css",
+              "RelativeDocumentMoniker": "src\\styles\\WhyChooseAndQuote.css",
+              "ToolTip": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\styles\\WhyChooseAndQuote.css",
+              "RelativeToolTip": "src\\styles\\WhyChooseAndQuote.css",
+              "ViewState": "AgIAABABAAAAAAAAAAAqwC4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-05T06:00:27.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\App.js",
+              "RelativeDocumentMoniker": "src\\App.js",
+              "ToolTip": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\App.js",
+              "RelativeToolTip": "src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-05T05:22:32.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-05T05:31:07.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "tasks.vs.json",
+              "DocumentMoniker": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\.vs\\tasks.vs.json",
+              "RelativeDocumentMoniker": ".vs\\tasks.vs.json",
+              "ToolTip": "C:\\Users\\obaid\\Desktop\\sametime-indus-courier\\.vs\\tasks.vs.json",
+              "RelativeToolTip": ".vs\\tasks.vs.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-05T05:39:26.142Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

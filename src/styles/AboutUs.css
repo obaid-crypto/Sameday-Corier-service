@@ -1,0 +1,153 @@
+.about-us {
+    padding: 80px 20px;
+    background: #f8f9fa;
+}
+
+.about-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 60px;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.about-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+    .about-content h2 {
+        font-size: 42px;
+        color: #1a1a1a;
+        margin: 0 0 20px 0;
+        font-weight: bold;
+        line-height: 1.2;
+    }
+
+    .about-content p {
+        font-size: 16px;
+        color: #666;
+        line-height: 1.8;
+        margin: 0;
+    }
+
+        .about-content p:last-of-type {
+            margin-bottom: 0;
+        }
+
+.about-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+}
+
+    .about-image img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 10px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+        transition: all 0.3s ease;
+        object-fit: cover;
+    }
+
+        .about-image img:hover {
+            transform: scale(1.02);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+        }
+
+/* ===== OPTIONAL: Stats Section (if added) ===== */
+.about-stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    margin-top: 50px;
+    padding-top: 50px;
+    border-top: 1px solid #ddd;
+}
+
+.stat {
+    text-align: center;
+}
+
+    .stat h3 {
+        font-size: 36px;
+        color: #003399;
+        margin: 0 0 10px 0;
+        font-weight: bold;
+    }
+
+    .stat p {
+        font-size: 14px;
+        color: #666;
+        margin: 0;
+    }
+
+/* ===== MOBILE RESPONSIVE ===== */
+@media (max-width: 768px) {
+    .about-us {
+        padding: 60px 20px;
+    }
+
+    .about-wrapper {
+        grid-template-columns: 1fr;
+        gap: 40px;
+    }
+
+    .about-content h2 {
+        font-size: 32px;
+        margin-bottom: 15px;
+    }
+
+    .about-content p {
+        font-size: 15px;
+    }
+
+    .about-image {
+        min-height: 300px;
+        order: -1; /* Show image first on mobile */
+    }
+
+    .about-stats {
+        grid-template-columns: 1fr;
+        gap: 20px;
+        margin-top: 40px;
+        padding-top: 40px;
+    }
+
+    .stat h3 {
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 480px) {
+    .about-us {
+        padding: 40px 15px;
+    }
+
+    .about-wrapper {
+        gap: 30px;
+    }
+
+    .about-content h2 {
+        font-size: 26px;
+    }
+
+    .about-content p {
+        font-size: 14px;
+    }
+
+    .about-image {
+        min-height: 250px;
+    }
+
+    .stat h3 {
+        font-size: 24px;
+    }
+
+    .stat p {
+        font-size: 12px;
+    }
+}

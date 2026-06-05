@@ -1,0 +1,13 @@
+main {
+    min-height: calc(100vh - 200px); /* Adjust for header/footer */
+}
+
+/* Section spacing */
+section {
+    scroll-margin-top: 100px; /* Account for sticky header */
+}
+
+/* Smooth scroll behavior */
+html {
+    scroll-behavior: smooth;
+}
