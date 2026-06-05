@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\build",
     "\\sametime-indus-courier-backend",
+    "\\sametime-indus-courier-backend\\api",
     "\\src"
   ],
   "SelectedNode": "\\sametime-indus-courier-backend\\package.json",
