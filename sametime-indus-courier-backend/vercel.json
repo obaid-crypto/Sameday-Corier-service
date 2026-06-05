@@ -1,23 +1,12 @@
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "api/*.js",
-      "use": "@vercel/node"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/api/(.*)",
-      "dest": "/api/$1"
-    }
-  ],
-  "env": {
-    "EMAIL_USER": "@email_user",
-    "EMAIL_PASS": "@email_pass",
-    "BUSINESS_EMAIL": "@business_email",
-    "PHONE_NUMBER": "@phone_number",
-    "WHATSAPP_NUMBER": "@whatsapp_number",
-    "COMPANY_NAME": "@company_name"
+  "name": "sametime-indus-courier-backend",
+  "version": "1.0.0",
+  "description": "SameTime Indus Courier API",
+  "main": "api/contact.js",
+  "scripts": {
+    "test": "echo \"No tests\""
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.7"
   }
 }

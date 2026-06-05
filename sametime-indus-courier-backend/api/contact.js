@@ -9,12 +9,11 @@ const transporter = nodemailer.createTransport({
 });
 
 export default async (req, res) => {
-    // Allow CORS
     res.setHeader('Access-Control-Allow-Credentials', 'true');
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.setHeader('Access-Control-Allow-Methods', 'GET,OPTIONS,PATCH,DELETE,POST,PUT');
     res.setHeader('Access-Control-Allow-Headers', 'X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version');
-    
+
     if (req.method === 'OPTIONS') {
         res.status(200).end();
         return;
@@ -44,7 +43,7 @@ export default async (req, res) => {
                 <p><strong>Name:</strong> ${name}</p>
                 <p><strong>Email:</strong> ${email}</p>
                 <p><strong>Phone:</strong> ${phone || 'Not provided'}</p>
-                <p><strong>Subject:</strong> ${subject || 'No subject'}</p>
+                <p><strong>Subject:</strong> ${subject}</p>
                 <hr>
                 <p><strong>Message:</strong></p>
                 <p>${message.replace(/\n/g, '<br>')}</p>
@@ -59,9 +58,6 @@ export default async (req, res) => {
                 <h2>Hello ${name},</h2>
                 <p>Thank you for contacting SameTime Indus Courier.</p>
                 <p>We have received your message and will get back to you within 24 hours.</p>
-                <h3>Contact Us:</h3>
-                <p>📞 Phone: ${process.env.PHONE_NUMBER}</p>
-                <p>💬 WhatsApp: ${process.env.WHATSAPP_NUMBER}</p>
                 <hr>
                 <p>Best regards,<br><strong>SameTime Indus Courier Team</strong></p>
             `,

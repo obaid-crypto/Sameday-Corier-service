@@ -9,12 +9,11 @@ const transporter = nodemailer.createTransport({
 });
 
 export default async (req, res) => {
-    // Allow CORS
     res.setHeader('Access-Control-Allow-Credentials', 'true');
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.setHeader('Access-Control-Allow-Methods', 'GET,OPTIONS,PATCH,DELETE,POST,PUT');
     res.setHeader('Access-Control-Allow-Headers', 'X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version');
-    
+
     if (req.method === 'OPTIONS') {
         res.status(200).end();
         return;
@@ -52,38 +51,21 @@ export default async (req, res) => {
             replyTo: senderEmail,
             html: `
                 <h2>📦 New Shipment Request</h2>
-                <h3>Sender Details:</h3>
                 <p><strong>Name:</strong> ${senderName}</p>
                 <p><strong>Email:</strong> ${senderEmail}</p>
-                <p><strong>Phone:</strong> ${senderPhone}</p>
-                <p><strong>Address:</strong> ${senderAddress}</p>
-                
-                <h3>Recipient Details:</h3>
-                <p><strong>Name:</strong> ${recipientName}</p>
-                <p><strong>Phone:</strong> ${recipientPhone}</p>
-                <p><strong>Address:</strong> ${recipientAddress}</p>
-                
-                <h3>Shipment Details:</h3>
                 <p><strong>Service:</strong> ${serviceType}</p>
                 <p><strong>Weight:</strong> ${weight} kg</p>
-                <p><strong>Description:</strong> ${description || 'N/A'}</p>
             `,
         };
 
         const mailToCustomer = {
             from: process.env.EMAIL_USER,
             to: senderEmail,
-            subject: `Shipment Request Received - SameTime Indus Courier`,
+            subject: `Shipment Received - SameTime Indus Courier`,
             html: `
                 <h2>Hello ${senderName},</h2>
-                <p>Your shipment request has been received successfully!</p>
-                <p>Our team will contact you shortly at <strong>${senderPhone}</strong>.</p>
-                
-                <h3>Shipment Summary:</h3>
-                <p><strong>Recipient:</strong> ${recipientName}</p>
-                <p><strong>Service:</strong> ${serviceType}</p>
-                <p><strong>Weight:</strong> ${weight} kg</p>
-                
+                <p>Your shipment request received!</p>
+                <p>We will contact you soon.</p>
                 <hr>
                 <p>Best regards,<br><strong>SameTime Indus Courier</strong></p>
             `,
@@ -94,7 +76,7 @@ export default async (req, res) => {
 
         return res.status(200).json({
             success: true,
-            message: 'Shipment request submitted! We will contact you soon.'
+            message: 'Shipment request submitted!'
         });
 
     } catch (error) {
